@@ -10,7 +10,7 @@ leakage of pre-trained models and customer datasets. The hackers were also able 
 perform lateral movements across the internal network, gaining access to a significant
 portion of the network. Further reports suggest that the hackers were able to export source
 code repositories to unknown IP addresses. The leadership is concerned about compliance,
-financial and reputational risk to their company. As a result, they have requested that your
+financial, and reputational risk to their company. As a result, they have requested that your
 team conduct a security audit to assess their current security posture. They would like you
 to evaluate the effectiveness of their current security controls, recommend improvements
-aligned with ISO 27001:2022 and develop a robust business continuity plan.
+aligned with ISO 27001:2022, and develop a robust business continuity plan.
